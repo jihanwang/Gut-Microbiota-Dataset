@@ -1,0 +1,1 @@
+This file contains the expression profiles of the gut microbiota for 175 samples (82 males and 93 females), divided into 6 sheets, each corresponding to the top 10 abundance of the microbiota composition of the 175 samples at the phylum, class, order, family, genus, and species classification levels.
